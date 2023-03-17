@@ -1,2 +1,2 @@
 echo "it is a testfile"
-touch a
+touch demo2github
